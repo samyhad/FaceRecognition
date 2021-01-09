@@ -18,11 +18,16 @@ Our step by step will be
 
 1. Python
 2. OpenCV
-3. Anaconda
 
+## How to setup your environment ##
 
+1. Install [Imutils](https://pypi.org/project/imutils/)
 
+   $ pip install imutils
 
+2. Install OpenCV Python
+
+   $ pip install opencv-python
 
 
 
