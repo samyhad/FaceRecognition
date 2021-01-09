@@ -19,3 +19,10 @@ Our step by step will be
 1. Python
 2. OpenCV
 3. Anaconda
+
+
+
+
+
+
+
